@@ -1,0 +1,6 @@
+{
+  "message": "二维码已生成，等待用户扫码，扫码后请告知，脚本会继续",
+  "qrcodeFile": "/root/.openclaw/workspace/seedance-customers/xiaohongshu_one_session_qrcode.png",
+  "timestamp": "2026-02-26T17:05:12.137Z",
+  "note": "浏览器保持打开状态，等待用户告知"
+}

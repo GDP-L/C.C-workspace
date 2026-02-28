@@ -1,0 +1,6 @@
+{
+  "message": "官网二维码已生成，等待用户扫码，扫码后请告知",
+  "qrcodeFile": "/root/.openclaw/workspace/seedance-customers/xiaohongshu_final_official_qrcode.png",
+  "timestamp": "2026-02-26T17:52:16.539Z",
+  "note": "此状态是未登录状态，等用户扫码后需要重新保存状态"
+}

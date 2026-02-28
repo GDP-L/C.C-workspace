@@ -1,0 +1,922 @@
+{
+  "platforms": {
+    "微博": {
+      "name": "微博",
+      "url": "https://s.weibo.com/",
+      "searchResults": [
+        {
+          "keyword": "AI视频生成",
+          "url": "https://s.weibo.com/weibo?q=AI视频生成",
+          "title": "登录 - 微博",
+          "contentLength": 6889,
+          "screenshot": "/root/.openclaw/workspace/seedance-customers/screenshot_微博_AI视频生成.png",
+          "extractedInfo": {
+            "links": [
+              {
+                "text": "短信验证登录验证码登录",
+                "href": "https://passport.weibo.com/sso/signin?entry=miniblog&source=miniblog&url=https%3A%2F%2Fs.weibo.com%2Fweibo%3Fq%3DAI%25E8%25A7%2586%25E9%25A2%2591%25E7%2594%259F%25E6%2588%2590#"
+              },
+              {
+                "text": "账号密码登录账号登录",
+                "href": "https://passport.weibo.com/sso/signin?entry=miniblog&source=miniblog&url=https%3A%2F%2Fs.weibo.com%2Fweibo%3Fq%3DAI%25E8%25A7%2586%25E9%25A2%2591%25E7%2594%259F%25E6%2588%2590#"
+              },
+              {
+                "text": "《用户协议》",
+                "href": "https://m.weibo.cn/c/regagreement"
+              },
+              {
+                "text": "《隐私条款》",
+                "href": "https://m.weibo.cn/c/privacy"
+              }
+            ],
+            "headings": [],
+            "usernames": []
+          }
+        },
+        {
+          "keyword": "文生视频",
+          "url": "https://s.weibo.com/weibo?q=文生视频",
+          "title": "登录 - 微博",
+          "contentLength": 6889,
+          "screenshot": "/root/.openclaw/workspace/seedance-customers/screenshot_微博_文生视频.png",
+          "extractedInfo": {
+            "links": [
+              {
+                "text": "短信验证登录验证码登录",
+                "href": "https://passport.weibo.com/sso/signin?entry=miniblog&source=miniblog&url=https%3A%2F%2Fs.weibo.com%2Fweibo%3Fq%3D%25E6%2596%2587%25E7%2594%259F%25E8%25A7%2586%25E9%25A2%2591#"
+              },
+              {
+                "text": "账号密码登录账号登录",
+                "href": "https://passport.weibo.com/sso/signin?entry=miniblog&source=miniblog&url=https%3A%2F%2Fs.weibo.com%2Fweibo%3Fq%3D%25E6%2596%2587%25E7%2594%259F%25E8%25A7%2586%25E9%25A2%2591#"
+              },
+              {
+                "text": "《用户协议》",
+                "href": "https://m.weibo.cn/c/regagreement"
+              },
+              {
+                "text": "《隐私条款》",
+                "href": "https://m.weibo.cn/c/privacy"
+              }
+            ],
+            "headings": [],
+            "usernames": []
+          }
+        },
+        {
+          "keyword": "图生视频",
+          "url": "https://s.weibo.com/weibo?q=图生视频",
+          "title": "登录 - 微博",
+          "contentLength": 6889,
+          "screenshot": "/root/.openclaw/workspace/seedance-customers/screenshot_微博_图生视频.png",
+          "extractedInfo": {
+            "links": [
+              {
+                "text": "短信验证登录验证码登录",
+                "href": "https://passport.weibo.com/sso/signin?entry=miniblog&source=miniblog&url=https%3A%2F%2Fs.weibo.com%2Fweibo%3Fq%3D%25E5%259B%25BE%25E7%2594%259F%25E8%25A7%2586%25E9%25A2%2591#"
+              },
+              {
+                "text": "账号密码登录账号登录",
+                "href": "https://passport.weibo.com/sso/signin?entry=miniblog&source=miniblog&url=https%3A%2F%2Fs.weibo.com%2Fweibo%3Fq%3D%25E5%259B%25BE%25E7%2594%259F%25E8%25A7%2586%25E9%25A2%2591#"
+              },
+              {
+                "text": "《用户协议》",
+                "href": "https://m.weibo.cn/c/regagreement"
+              },
+              {
+                "text": "《隐私条款》",
+                "href": "https://m.weibo.cn/c/privacy"
+              }
+            ],
+            "headings": [],
+            "usernames": []
+          }
+        }
+      ],
+      "potentialLeads": [],
+      "timestamp": "2026-02-26T07:41:42.231Z"
+    },
+    "知乎": {
+      "name": "知乎",
+      "url": "https://www.zhihu.com/",
+      "searchResults": [
+        {
+          "keyword": "AI视频生成",
+          "url": "https://www.zhihu.com/search?q=AI视频生成",
+          "title": "AI视频生成 - 搜索结果 - 知乎",
+          "contentLength": 255351,
+          "screenshot": "/root/.openclaw/workspace/seedance-customers/screenshot_知乎_AI视频生成.png",
+          "extractedInfo": {
+            "links": [
+              {
+                "text": "圈子New",
+                "href": "https://www.zhihu.com/signin?next=%2Fring-feeds"
+              },
+              {
+                "text": "付费咨询",
+                "href": "https://www.zhihu.com/consult"
+              },
+              {
+                "text": "AI 搜索",
+                "href": "https://www.zhihu.com/search?q=AI%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90&type=zhida"
+              },
+              {
+                "text": "盐选内容",
+                "href": "https://www.zhihu.com/search?q=AI%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90&type=km_general"
+              },
+              {
+                "text": "AI 搜索",
+                "href": "https://www.zhihu.com/search?q=AI%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90&type=zhida"
+              },
+              {
+                "text": "盐选内容",
+                "href": "https://www.zhihu.com/search?q=AI%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90&type=km_general"
+              },
+              {
+                "text": "《镖人》票房逆跌497 万",
+                "href": "https://www.zhihu.com/search?q=%E3%80%8A%E9%95%96%E4%BA%BA%E3%80%8B%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "上海发布楼市「沪七条」353 万",
+                "href": "https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%8F%91%E5%B8%83%E6%A5%BC%E5%B8%82%E3%80%8C%E6%B2%AA%E4%B8%83%E6%9D%A1%E3%80%8D&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "起点万订作者被父母批不务正业352 万",
+                "href": "https://www.zhihu.com/search?q=%E8%B5%B7%E7%82%B9%E4%B8%87%E8%AE%A2%E4%BD%9C%E8%80%85%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%89%B9%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "巴拿马政府强行接管李嘉诚旗下港口314 万",
+                "href": "https://www.zhihu.com/search?q=%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%94%BF%E5%BA%9C%E5%BC%BA%E8%A1%8C%E6%8E%A5%E7%AE%A1%E6%9D%8E%E5%98%89%E8%AF%9A%E6%97%97%E4%B8%8B%E6%B8%AF%E5%8F%A3&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "中方将20家日本实体列入管控名单294 万",
+                "href": "https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "2026 考研出分280 万",
+                "href": "https://www.zhihu.com/search?q=2026+%E8%80%83%E7%A0%94%E5%87%BA%E5%88%86&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "Anthropic 指控三家中国模型「非法蒸馏」278 万",
+                "href": "https://www.zhihu.com/search?q=Anthropic+%E6%8C%87%E6%8E%A7%E4%B8%89%E5%AE%B6%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%9E%8B%E3%80%8C%E9%9D%9E%E6%B3%95%E8%92%B8%E9%A6%8F%E3%80%8D&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "一家4口上山妻子失踪后死亡267 万",
+                "href": "https://www.zhihu.com/search?q=%E4%B8%80%E5%AE%B64%E5%8F%A3%E4%B8%8A%E5%B1%B1%E5%A6%BB%E5%AD%90%E5%A4%B1%E8%B8%AA%E5%90%8E%E6%AD%BB%E4%BA%A1&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "23岁女港警警署内身亡242 万",
+                "href": "https://www.zhihu.com/search?q=23%E5%B2%81%E5%A5%B3%E6%B8%AF%E8%AD%A6%E8%AD%A6%E7%BD%B2%E5%86%85%E8%BA%AB%E4%BA%A1&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "福特号航母厕所近九成损坏233 万",
+                "href": "https://www.zhihu.com/search?q=%E7%A6%8F%E7%89%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%8E%95%E6%89%80%E8%BF%91%E4%B9%9D%E6%88%90%E6%8D%9F%E5%9D%8F&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "知乎个人信息保护指引",
+                "href": "https://www.zhihu.com/term/privacy"
+              },
+              {
+                "text": "联系我们",
+                "href": "https://www.zhihu.com/contact"
+              },
+              {
+                "text": "涉未成年举报",
+                "href": "https://www.zhihu.com/term/child-jubao"
+              },
+              {
+                "text": "网络谣言举报",
+                "href": "https://www.zhihu.com/term/net-report"
+              }
+            ],
+            "headings": [],
+            "usernames": []
+          }
+        },
+        {
+          "keyword": "视频制作",
+          "url": "https://www.zhihu.com/search?q=视频制作",
+          "title": "视频制作 - 搜索结果 - 知乎",
+          "contentLength": 255254,
+          "screenshot": "/root/.openclaw/workspace/seedance-customers/screenshot_知乎_视频制作.png",
+          "extractedInfo": {
+            "links": [
+              {
+                "text": "圈子New",
+                "href": "https://www.zhihu.com/signin?next=%2Fring-feeds"
+              },
+              {
+                "text": "付费咨询",
+                "href": "https://www.zhihu.com/consult"
+              },
+              {
+                "text": "AI 搜索",
+                "href": "https://www.zhihu.com/search?q=%E8%A7%86%E9%A2%91%E5%88%B6%E4%BD%9C&type=zhida"
+              },
+              {
+                "text": "盐选内容",
+                "href": "https://www.zhihu.com/search?q=%E8%A7%86%E9%A2%91%E5%88%B6%E4%BD%9C&type=km_general"
+              },
+              {
+                "text": "AI 搜索",
+                "href": "https://www.zhihu.com/search?q=%E8%A7%86%E9%A2%91%E5%88%B6%E4%BD%9C&type=zhida"
+              },
+              {
+                "text": "盐选内容",
+                "href": "https://www.zhihu.com/search?q=%E8%A7%86%E9%A2%91%E5%88%B6%E4%BD%9C&type=km_general"
+              },
+              {
+                "text": "《镖人》票房逆跌497 万",
+                "href": "https://www.zhihu.com/search?q=%E3%80%8A%E9%95%96%E4%BA%BA%E3%80%8B%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "上海发布楼市「沪七条」353 万",
+                "href": "https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%8F%91%E5%B8%83%E6%A5%BC%E5%B8%82%E3%80%8C%E6%B2%AA%E4%B8%83%E6%9D%A1%E3%80%8D&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "起点万订作者被父母批不务正业352 万",
+                "href": "https://www.zhihu.com/search?q=%E8%B5%B7%E7%82%B9%E4%B8%87%E8%AE%A2%E4%BD%9C%E8%80%85%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%89%B9%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "巴拿马政府强行接管李嘉诚旗下港口314 万",
+                "href": "https://www.zhihu.com/search?q=%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%94%BF%E5%BA%9C%E5%BC%BA%E8%A1%8C%E6%8E%A5%E7%AE%A1%E6%9D%8E%E5%98%89%E8%AF%9A%E6%97%97%E4%B8%8B%E6%B8%AF%E5%8F%A3&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "中方将20家日本实体列入管控名单294 万",
+                "href": "https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "2026 考研出分280 万",
+                "href": "https://www.zhihu.com/search?q=2026+%E8%80%83%E7%A0%94%E5%87%BA%E5%88%86&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "Anthropic 指控三家中国模型「非法蒸馏」278 万",
+                "href": "https://www.zhihu.com/search?q=Anthropic+%E6%8C%87%E6%8E%A7%E4%B8%89%E5%AE%B6%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%9E%8B%E3%80%8C%E9%9D%9E%E6%B3%95%E8%92%B8%E9%A6%8F%E3%80%8D&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "一家4口上山妻子失踪后死亡267 万",
+                "href": "https://www.zhihu.com/search?q=%E4%B8%80%E5%AE%B64%E5%8F%A3%E4%B8%8A%E5%B1%B1%E5%A6%BB%E5%AD%90%E5%A4%B1%E8%B8%AA%E5%90%8E%E6%AD%BB%E4%BA%A1&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "23岁女港警警署内身亡242 万",
+                "href": "https://www.zhihu.com/search?q=23%E5%B2%81%E5%A5%B3%E6%B8%AF%E8%AD%A6%E8%AD%A6%E7%BD%B2%E5%86%85%E8%BA%AB%E4%BA%A1&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "福特号航母厕所近九成损坏233 万",
+                "href": "https://www.zhihu.com/search?q=%E7%A6%8F%E7%89%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%8E%95%E6%89%80%E8%BF%91%E4%B9%9D%E6%88%90%E6%8D%9F%E5%9D%8F&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "知乎个人信息保护指引",
+                "href": "https://www.zhihu.com/term/privacy"
+              },
+              {
+                "text": "联系我们",
+                "href": "https://www.zhihu.com/contact"
+              },
+              {
+                "text": "涉未成年举报",
+                "href": "https://www.zhihu.com/term/child-jubao"
+              },
+              {
+                "text": "网络谣言举报",
+                "href": "https://www.zhihu.com/term/net-report"
+              }
+            ],
+            "headings": [],
+            "usernames": []
+          }
+        },
+        {
+          "keyword": "广告视频",
+          "url": "https://www.zhihu.com/search?q=广告视频",
+          "title": "广告视频 - 搜索结果 - 知乎",
+          "contentLength": 255253,
+          "screenshot": "/root/.openclaw/workspace/seedance-customers/screenshot_知乎_广告视频.png",
+          "extractedInfo": {
+            "links": [
+              {
+                "text": "圈子New",
+                "href": "https://www.zhihu.com/signin?next=%2Fring-feeds"
+              },
+              {
+                "text": "付费咨询",
+                "href": "https://www.zhihu.com/consult"
+              },
+              {
+                "text": "AI 搜索",
+                "href": "https://www.zhihu.com/search?q=%E5%B9%BF%E5%91%8A%E8%A7%86%E9%A2%91&type=zhida"
+              },
+              {
+                "text": "盐选内容",
+                "href": "https://www.zhihu.com/search?q=%E5%B9%BF%E5%91%8A%E8%A7%86%E9%A2%91&type=km_general"
+              },
+              {
+                "text": "AI 搜索",
+                "href": "https://www.zhihu.com/search?q=%E5%B9%BF%E5%91%8A%E8%A7%86%E9%A2%91&type=zhida"
+              },
+              {
+                "text": "盐选内容",
+                "href": "https://www.zhihu.com/search?q=%E5%B9%BF%E5%91%8A%E8%A7%86%E9%A2%91&type=km_general"
+              },
+              {
+                "text": "《镖人》票房逆跌497 万",
+                "href": "https://www.zhihu.com/search?q=%E3%80%8A%E9%95%96%E4%BA%BA%E3%80%8B%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "上海发布楼市「沪七条」353 万",
+                "href": "https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%8F%91%E5%B8%83%E6%A5%BC%E5%B8%82%E3%80%8C%E6%B2%AA%E4%B8%83%E6%9D%A1%E3%80%8D&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "起点万订作者被父母批不务正业352 万",
+                "href": "https://www.zhihu.com/search?q=%E8%B5%B7%E7%82%B9%E4%B8%87%E8%AE%A2%E4%BD%9C%E8%80%85%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%89%B9%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "巴拿马政府强行接管李嘉诚旗下港口314 万",
+                "href": "https://www.zhihu.com/search?q=%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%94%BF%E5%BA%9C%E5%BC%BA%E8%A1%8C%E6%8E%A5%E7%AE%A1%E6%9D%8E%E5%98%89%E8%AF%9A%E6%97%97%E4%B8%8B%E6%B8%AF%E5%8F%A3&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "中方将20家日本实体列入管控名单294 万",
+                "href": "https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "2026 考研出分280 万",
+                "href": "https://www.zhihu.com/search?q=2026+%E8%80%83%E7%A0%94%E5%87%BA%E5%88%86&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "Anthropic 指控三家中国模型「非法蒸馏」278 万",
+                "href": "https://www.zhihu.com/search?q=Anthropic+%E6%8C%87%E6%8E%A7%E4%B8%89%E5%AE%B6%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%9E%8B%E3%80%8C%E9%9D%9E%E6%B3%95%E8%92%B8%E9%A6%8F%E3%80%8D&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "一家4口上山妻子失踪后死亡267 万",
+                "href": "https://www.zhihu.com/search?q=%E4%B8%80%E5%AE%B64%E5%8F%A3%E4%B8%8A%E5%B1%B1%E5%A6%BB%E5%AD%90%E5%A4%B1%E8%B8%AA%E5%90%8E%E6%AD%BB%E4%BA%A1&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "23岁女港警警署内身亡242 万",
+                "href": "https://www.zhihu.com/search?q=23%E5%B2%81%E5%A5%B3%E6%B8%AF%E8%AD%A6%E8%AD%A6%E7%BD%B2%E5%86%85%E8%BA%AB%E4%BA%A1&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "福特号航母厕所近九成损坏233 万",
+                "href": "https://www.zhihu.com/search?q=%E7%A6%8F%E7%89%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%8E%95%E6%89%80%E8%BF%91%E4%B9%9D%E6%88%90%E6%8D%9F%E5%9D%8F&search_source=Trending&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content"
+              },
+              {
+                "text": "知乎个人信息保护指引",
+                "href": "https://www.zhihu.com/term/privacy"
+              },
+              {
+                "text": "联系我们",
+                "href": "https://www.zhihu.com/contact"
+              },
+              {
+                "text": "涉未成年举报",
+                "href": "https://www.zhihu.com/term/child-jubao"
+              },
+              {
+                "text": "网络谣言举报",
+                "href": "https://www.zhihu.com/term/net-report"
+              }
+            ],
+            "headings": [],
+            "usernames": []
+          }
+        }
+      ],
+      "potentialLeads": [],
+      "timestamp": "2026-02-26T07:41:48.608Z"
+    },
+    "B站": {
+      "name": "B站",
+      "url": "https://www.bilibili.com/",
+      "searchResults": [
+        {
+          "keyword": "AI视频生成",
+          "url": "https://search.bilibili.com/all?keyword=AI视频生成",
+          "title": "AI视频生成-哔哩哔哩_bilibili",
+          "contentLength": 984568,
+          "screenshot": "/root/.openclaw/workspace/seedance-customers/screenshot_B站_AI视频生成.png",
+          "extractedInfo": {
+            "links": [
+              {
+                "text": "游戏中心",
+                "href": "https://game.bilibili.com/platform"
+              },
+              {
+                "text": "新春会新春会",
+                "href": "https://live.bilibili.com/blackboard/era/74MUJKWch0MYvdEb.html"
+              },
+              {
+                "text": "下载客户端",
+                "href": "https://app.bilibili.com/"
+              },
+              {
+                "text": "深度讲解市面上最热门的AI视频软件",
+                "href": "https://www.bilibili.com/cheese/play/ss411204975?csource=Hp_searchresult"
+              },
+              {
+                "text": "查看详情",
+                "href": "https://www.bilibili.com/cheese/play/ss411204975?csource=Hp_searchresult"
+              },
+              {
+                "text": "稍后再看4.7万14004:38:42",
+                "href": "https://www.bilibili.com/video/BV1gEfcBKEYR/"
+              },
+              {
+                "text": "【全30集】即梦Seedance2.0保姆级教程！（2026最新）多主体一致性控制，人物微表情控制，AI视频制作全流程教学！手把手教你玩转AI影视赛道！",
+                "href": "https://www.bilibili.com/video/BV1gEfcBKEYR/"
+              },
+              {
+                "text": "即梦AI短片教程 · 02-22",
+                "href": "https://space.bilibili.com/3546850191739708"
+              },
+              {
+                "text": "稍后再看97.8万63502:02:29",
+                "href": "https://www.bilibili.com/video/BV13it4zDE2K/"
+              },
+              {
+                "text": "【全68集】3分钟入门AI视频制作！AI生成视频零基础入门保姆级教程（2025最新）AI视频制作全流程教学！包含所有干货！七天就能从小白到大神！（附工具）",
+                "href": "https://www.bilibili.com/video/BV13it4zDE2K/"
+              },
+              {
+                "text": "AI视频生成教学 · 2025-08-09",
+                "href": "https://space.bilibili.com/3546917021682443"
+              },
+              {
+                "text": "稍后再看74.5万474422:29",
+                "href": "https://www.bilibili.com/video/BV1pUZHBGEMQ/"
+              },
+              {
+                "text": "一句话、一个人就能拍电影！新一代AI视频生成模型 一键造出了什么“现实”？",
+                "href": "https://www.bilibili.com/video/BV1pUZHBGEMQ/"
+              },
+              {
+                "text": "央视新闻 · 02-15",
+                "href": "https://space.bilibili.com/456664753"
+              },
+              {
+                "text": "稍后再看42.8万78810:18",
+                "href": "https://www.bilibili.com/video/BV1MiZvBZENQ/"
+              },
+              {
+                "text": "人人免费出大片！豆包Seedance 2.0实测对比+解析！",
+                "href": "https://www.bilibili.com/video/BV1MiZvBZENQ/"
+              },
+              {
+                "text": "秋芝2046 · 02-19",
+                "href": "https://space.bilibili.com/385670211"
+              },
+              {
+                "text": "稍后再看648万1.9万09:05",
+                "href": "https://www.bilibili.com/video/BV1A3cczZEf6/"
+              },
+              {
+                "text": "改变视频行业的AI，快来了(但有点恐怖)",
+                "href": "https://www.bilibili.com/video/BV1A3cczZEf6/"
+              },
+              {
+                "text": "影视飓风 · 02-09",
+                "href": "https://space.bilibili.com/946974"
+              }
+            ],
+            "headings": [
+              "登录后你可以：",
+              "【全30集】即梦Seedance2.0保姆级教程！（2026最新）多主体一致性控制，人物微表情控制，AI视频制作全流程教学！手把手教你玩转AI影视赛道！",
+              "【全68集】3分钟入门AI视频制作！AI生成视频零基础入门保姆级教程（2025最新）AI视频制作全流程教学！包含所有干货！七天就能从小白到大神！（附工具）",
+              "一句话、一个人就能拍电影！新一代AI视频生成模型 一键造出了什么“现实”？",
+              "人人免费出大片！豆包Seedance 2.0实测对比+解析！",
+              "改变视频行业的AI，快来了(但有点恐怖)",
+              "AI视频制作生成-剪辑/变声/数字人/绘画/变现",
+              "新变态AI！吊打海螺/sora2的免费无限制AI生图/视频软件，比付费还强！(附安装包）",
+              "即梦Seedance2.0 AI影视创作最细喂饭教程、治疗AI焦虑症、从最基础的逻辑教会你快速创造自己的高质量AI短片",
+              "美国博主用seedance2.0和目前其他三个视频大模型对比生成效果",
+              "【AI视频教程】豆包AI一站式生成AI动画 AI生成视频零基础入门保姆级教程 AI脚本+分镜制作+配音剪辑全流程教学！小白入门到精通!",
+              "【Comfyui成人版教程】Wan2.2 Animate图片生成视频全功能版本，支持NSFW，首尾帧，高清处理，自动补帧，全网最强大尺度美女图片AI生成视频教程",
+              "AI一键生成旅游视频，小白轻松搬砖副业项目！",
+              "【全68集】（2026最新）AI视频创作零基础入门保姆级教程 AI生成视频全流程教学！包含所有干货！七天就能从小白到大神！（附工具）",
+              "4款主流视频AI极限横评，谁才是版本答案？"
+            ],
+            "usernames": []
+          }
+        },
+        {
+          "keyword": "视频制作教程",
+          "url": "https://search.bilibili.com/all?keyword=视频制作教程",
+          "title": "视频制作教程-哔哩哔哩_bilibili",
+          "contentLength": 973934,
+          "screenshot": "/root/.openclaw/workspace/seedance-customers/screenshot_B站_视频制作教程.png",
+          "extractedInfo": {
+            "links": [
+              {
+                "text": "游戏中心",
+                "href": "https://game.bilibili.com/platform"
+              },
+              {
+                "text": "新春会新春会",
+                "href": "https://live.bilibili.com/blackboard/era/74MUJKWch0MYvdEb.html"
+              },
+              {
+                "text": "下载客户端",
+                "href": "https://app.bilibili.com/"
+              },
+              {
+                "text": "稍后再看125.5万542909:24",
+                "href": "https://www.bilibili.com/video/BV13K4y1Q7Ao/"
+              },
+              {
+                "text": "从0到1只用10分钟——学会剪辑！",
+                "href": "https://www.bilibili.com/video/BV13K4y1Q7Ao/"
+              },
+              {
+                "text": "裹小脚的大叔 · 2021-02-14",
+                "href": "https://space.bilibili.com/419058522"
+              },
+              {
+                "text": "稍后再看274.2万3.3万07:06:05",
+                "href": "https://www.bilibili.com/video/BV1Nb421H77B/"
+              },
+              {
+                "text": "【全289集】比付费还强10倍的自学剪辑全套教程，全程通俗易懂，别再走弯路了，小白看完速通PR剪辑！",
+                "href": "https://www.bilibili.com/video/BV1Nb421H77B/"
+              },
+              {
+                "text": "剪辑圈彭于晏 · 2024-06-07",
+                "href": "https://space.bilibili.com/1894570949"
+              },
+              {
+                "text": "稍后再看48.8万47204:11:27",
+                "href": "https://www.bilibili.com/video/BV1W226BTED9/"
+              },
+              {
+                "text": "【全30集】全B站最详细“即梦+豆包+剪映”教程，2小时快速掌握AI动漫制作技巧，手把手教你从0到1制作AI短片！小白适用！学完即接单，带你玩转AI视频赛道！",
+                "href": "https://www.bilibili.com/video/BV1W226BTED9/"
+              },
+              {
+                "text": "AI视频制作教程 · 2025-12-08",
+                "href": "https://space.bilibili.com/3546686773266550"
+              },
+              {
+                "text": "稍后再看14.8万11012:26",
+                "href": "https://www.bilibili.com/video/BV1tqNfenEan/"
+              },
+              {
+                "text": "【2025版PR教程】10分钟学会！全网最干0废话",
+                "href": "https://www.bilibili.com/video/BV1tqNfenEan/"
+              },
+              {
+                "text": "小恩不废话 · 2025-02-13",
+                "href": "https://space.bilibili.com/1840502037"
+              },
+              {
+                "text": "稍后再看408.1万701513:11",
+                "href": "https://www.bilibili.com/video/BV1ftGuzME9Y/"
+              },
+              {
+                "text": "2025年，到底用什么剪辑软件？",
+                "href": "https://www.bilibili.com/video/BV1ftGuzME9Y/"
+              },
+              {
+                "text": "影视飓风 · 2025-07-10",
+                "href": "https://space.bilibili.com/946974"
+              },
+              {
+                "text": "稍后再看4552302:46:43",
+                "href": "https://www.bilibili.com/video/BV1PaFrzkEeG/"
+              },
+              {
+                "text": "【手机剪映全套教程】不会剪辑？剪映零基础速成，学完直接可以去兼职的实战教程，视频剪辑零基础入门教学",
+                "href": "https://www.bilibili.com/video/BV1PaFrzkEeG/"
+              }
+            ],
+            "headings": [
+              "登录后你可以：",
+              "从0到1只用10分钟——学会剪辑！",
+              "【全289集】比付费还强10倍的自学剪辑全套教程，全程通俗易懂，别再走弯路了，小白看完速通PR剪辑！",
+              "【全30集】全B站最详细“即梦+豆包+剪映”教程，2小时快速掌握AI动漫制作技巧，手把手教你从0到1制作AI短片！小白适用！学完即接单，带你玩转AI视频赛道！",
+              "【2025版PR教程】10分钟学会！全网最干0废话",
+              "2025年，到底用什么剪辑软件？",
+              "【手机剪映全套教程】不会剪辑？剪映零基础速成，学完直接可以去兼职的实战教程，视频剪辑零基础入门教学",
+              "剪辑+拍摄｜全能视频创作课（新手友好）",
+              "【全30集】即梦Seedance2.0保姆级教程！（2026最新）多主体一致性控制，人物微表情控制，AI视频制作全流程教学！手把手教你玩转AI影视赛道！",
+              "保姆级AI视频制作教程，解决两大难点，统一人物一致性！",
+              "【全68集】3分钟入门AI视频制作！AI生成视频零基础入门保姆级教程（2025最新）AI视频制作全流程教学！包含所有干货！七天就能从小白到大神！（附工具）",
+              "【AI视频教程】（40集全）2026年B站最全最细的AI视频生成全流程保姆级教学！最新版AI视频制作全流程教程！包含所有干货！新手入门到精通！（附工具）",
+              "【全30集】“即梦+豆包+剪映”最强AI漫剧制作教程，2小时快速掌握AI视频技巧，手把手教你从0到1制作AI短片！小白适用！学完即可接单，带你玩转AI视频赛道！",
+              "【精品课】微课制作教程，在家也能搞定微课录制",
+              "【全30集】“即梦+豆包+剪映”最强AI漫剧制作教程，2小时快速掌握AI视频技巧，手把手教你从0到1制作AI短片！小白适用！学完即接单，带你玩转AI视频赛道"
+            ],
+            "usernames": []
+          }
+        },
+        {
+          "keyword": "电商视频",
+          "url": "https://search.bilibili.com/all?keyword=电商视频",
+          "title": "电商视频-哔哩哔哩_bilibili",
+          "contentLength": 972876,
+          "screenshot": "/root/.openclaw/workspace/seedance-customers/screenshot_B站_电商视频.png",
+          "extractedInfo": {
+            "links": [
+              {
+                "text": "游戏中心",
+                "href": "https://game.bilibili.com/platform"
+              },
+              {
+                "text": "新春会新春会",
+                "href": "https://live.bilibili.com/blackboard/era/74MUJKWch0MYvdEb.html"
+              },
+              {
+                "text": "下载客户端",
+                "href": "https://app.bilibili.com/"
+              },
+              {
+                "text": "稍后再看6.6万2152:17",
+                "href": "https://www.bilibili.com/video/BV1ZJ41197xa/"
+              },
+              {
+                "text": "电商视频拍摄、制作、剪辑教程",
+                "href": "https://www.bilibili.com/video/BV1ZJ41197xa/"
+              },
+              {
+                "text": "夏天Design97 · 2019-11-25",
+                "href": "https://space.bilibili.com/305496953"
+              },
+              {
+                "text": "稍后再看3.8万5117:26",
+                "href": "https://www.bilibili.com/video/BV1yzSsBiE7V/"
+              },
+              {
+                "text": "【Coze工作流教程】一键生成Sora2电商产品短视频，保姆级实操演示，通俗易懂，小白包学会！",
+                "href": "https://www.bilibili.com/video/BV1yzSsBiE7V/"
+              },
+              {
+                "text": "阿诚AI智能体 · 2025-12-02",
+                "href": "https://space.bilibili.com/3546935982033734"
+              },
+              {
+                "text": "江枫电商落地实操从0到1淘宝开店运营系统视频课程",
+                "href": "https://www.bilibili.com/cheese/play/ss181447934?query_from=0&search_id=6643798407281907059&search_query=%E7%94%B5%E5%95%86%E8%A7%86%E9%A2%91&csource=common_hpsearch_null_null"
+              },
+              {
+                "text": "江枫bst · 已更20课时",
+                "href": "https://space.bilibili.com/1819712159"
+              },
+              {
+                "text": "稍后再看3万1133:10",
+                "href": "https://www.bilibili.com/video/BV1HtqfBfE9R/"
+              },
+              {
+                "text": "地表最强AI大模型组合：Sora2+banana2, 自动化生成《电商带货视频》",
+                "href": "https://www.bilibili.com/video/BV1HtqfBfE9R/"
+              },
+              {
+                "text": "赢海老陈AI智能体 · 2025-12-19",
+                "href": "https://space.bilibili.com/385818960"
+              },
+              {
+                "text": "稍后再看5354308:09",
+                "href": "https://www.bilibili.com/video/BV17zcuzrEUu/"
+              },
+              {
+                "text": "Seedance2.0！不加任何限定词的最强AI视频模型 做电商产品怎么样？",
+                "href": "https://www.bilibili.com/video/BV17zcuzrEUu/"
+              },
+              {
+                "text": "AI设计师_霍秋炮 · 02-09",
+                "href": "https://space.bilibili.com/3493273538660578"
+              },
+              {
+                "text": "稍后再看4万2431:15",
+                "href": "https://www.bilibili.com/video/BV1HMexzkEFB/"
+              },
+              {
+                "text": "【爆款带货视频】一天批量生成100条带货视频！coze智能体工作流一键生成电商带货混剪视频，全网最新，保姆级教学！",
+                "href": "https://www.bilibili.com/video/BV1HMexzkEFB/"
+              },
+              {
+                "text": "老陈AI-JHY · 2025-08-25",
+                "href": "https://space.bilibili.com/1080251178"
+              }
+            ],
+            "headings": [
+              "登录后你可以：",
+              "电商视频拍摄、制作、剪辑教程",
+              "【Coze工作流教程】一键生成Sora2电商产品短视频，保姆级实操演示，通俗易懂，小白包学会！",
+              "江枫电商落地实操从0到1淘宝开店运营系统视频课程",
+              "地表最强AI大模型组合：Sora2+banana2, 自动化生成《电商带货视频》",
+              "Seedance2.0！不加任何限定词的最强AI视频模型 做电商产品怎么样？",
+              "【爆款带货视频】一天批量生成100条带货视频！coze智能体工作流一键生成电商带货混剪视频，全网最新，保姆级教学！",
+              "【Coze实战教程】一键生成《电商服装》带货短视频，实操教程，包教包会！",
+              "seedance2.0在电商视频效果如何？seedance2.0的测评来了～#电商ai #服装AI #服装人AI圈 #木桐AI #科技下一站",
+              "AI绘画全攻略:电影/漫画/视频/风景/电商游戏",
+              "【2026电商运营起店-官方教学】零基础速成课！淘宝开店运营-底层原理分析到实操实战，绝对是全网最全面的电商运营教程。【淘宝运营|淘宝开店|新手开网店如何起步】",
+              "020 短视频电商产品创作课，拍摄种草剪辑内容创作一站式课程 快速获取流量",
+              "seedance2.0生成电商带货视频",
+              "一张图一段话，AI直接生成带货爆款视频！不用拍、不用剪，连脚本都帮你写好了。批量做视频的宝子，这波效率直接拉满#AI带货工具 #短视频神器 #电商干货#妙思AI",
+              "🔥用Seedance 2复刻产品视频太简单了！"
+            ],
+            "usernames": []
+          }
+        }
+      ],
+      "potentialLeads": [],
+      "timestamp": "2026-02-26T07:42:06.595Z"
+    },
+    "小红书": {
+      "name": "小红书",
+      "url": "https://www.xiaohongshu.com/",
+      "searchResults": [
+        {
+          "keyword": "AI视频生成",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=AI视频生成",
+          "title": "AI视频生成 - 小红书搜索",
+          "contentLength": 606531,
+          "screenshot": "/root/.openclaw/workspace/seedance-customers/screenshot_小红书_AI视频生成.png",
+          "extractedInfo": {
+            "links": [
+              {
+                "text": "《用户协议》",
+                "href": "https://agree.xiaohongshu.com/h5/terms/ZXXY20220331001/-1"
+              },
+              {
+                "text": "《隐私政策》",
+                "href": "https://agree.xiaohongshu.com/h5/terms/ZXXY20220509001/-1"
+              },
+              {
+                "text": "《儿童/青少年个人信息保护规则》",
+                "href": "https://oa.xiaohongshu.com/h5/terms/ZXXY20220516001/-1"
+              },
+              {
+                "text": "《用户协议》",
+                "href": "https://agree.xiaohongshu.com/h5/terms/ZXXY20220331001/-1"
+              },
+              {
+                "text": "《隐私政策》",
+                "href": "https://agree.xiaohongshu.com/h5/terms/ZXXY20220509001/-1"
+              },
+              {
+                "text": "《儿童/青少年个人信息保护规则》",
+                "href": "https://oa.xiaohongshu.com/h5/terms/ZXXY20220516001/-1"
+              },
+              {
+                "text": "沪ICP备13030189号",
+                "href": "https://beian.miit.gov.cn/"
+              },
+              {
+                "text": "营业执照",
+                "href": "https://fe-video-qc.xhscdn.com/fe-platform/5581076bd6b6af2e0e943abb024ad0e16f2ebff6.pdf"
+              },
+              {
+                "text": "2024沪公网安备31010102002533号",
+                "href": "https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010102002533"
+              },
+              {
+                "text": "增值电信业务经营许可证：沪B2-20150021",
+                "href": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b831hhkkll23u0678gtks7tu70004en2n231udpe"
+              },
+              {
+                "text": "医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号",
+                "href": "https://fe-video-qc.xhscdn.com/fe-platform/410dce57bc12a6d7e5808060e47644fbe46f68ff.pdf"
+              },
+              {
+                "text": "互联网药品信息服务资格证书：(沪)-经营性-2023-0144",
+                "href": "https://fe-video-qc.xhscdn.com/fe-platform/f37a08cacc088061beb38329c387c32fc48fc6fe.pdf"
+              },
+              {
+                "text": "违法不良信息举报电话：4006676810",
+                "href": "https://www.shjbzx.cn/"
+              },
+              {
+                "text": "上海市互联网举报中心",
+                "href": "https://www.shjbzx.cn/"
+              },
+              {
+                "text": "网上有害信息举报专区",
+                "href": "https://www.12377.cn/"
+              },
+              {
+                "text": "自营经营者信息",
+                "href": "https://dc.xhscdn.com/06c2adb0-b353-11e9-9d0c-7be9ff8961c1/%E8%87%AA%E8%90%A5%E7%BB%8F%E8%90%A5%E8%80%85%E4%BF%A1%E6%81%AF%E5%85%AC%E7%A4%BA.pdf"
+              },
+              {
+                "text": "网络文化经营许可证：沪网文(2024)1344-086号",
+                "href": "https://fe-video-qc.xhscdn.com/fe-platform/7970f6e8b70aedc995ba273d04b6b6751abcd63c.pdf"
+              },
+              {
+                "text": "个性化推荐算法 网信算备310101216601302230019号",
+                "href": "https://beian.cac.gov.cn/api/static/fileUpload/principalOrithm/additional/user_c015445c-80ac-45f7-94d7-3871e961b1fe_d4425f3b-7f35-45af-b8d4-badd4424d6d5.pdf"
+              },
+              {
+                "text": "沪ICP备13030189号",
+                "href": "https://beian.miit.gov.cn/"
+              },
+              {
+                "text": "营业执照",
+                "href": "https://fe-video-qc.xhscdn.com/fe-platform/5581076bd6b6af2e0e943abb024ad0e16f2ebff6.pdf"
+              }
+            ],
+            "headings": [],
+            "usernames": []
+          }
+        },
+        {
+          "keyword": "视频制作",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=视频制作",
+          "title": "视频制作 - 小红书搜索",
+          "contentLength": 606657,
+          "screenshot": "/root/.openclaw/workspace/seedance-customers/screenshot_小红书_视频制作.png",
+          "extractedInfo": {
+            "links": [
+              {
+                "text": "《用户协议》",
+                "href": "https://agree.xiaohongshu.com/h5/terms/ZXXY20220331001/-1"
+              },
+              {
+                "text": "《隐私政策》",
+                "href": "https://agree.xiaohongshu.com/h5/terms/ZXXY20220509001/-1"
+              },
+              {
+                "text": "《儿童/青少年个人信息保护规则》",
+                "href": "https://oa.xiaohongshu.com/h5/terms/ZXXY20220516001/-1"
+              },
+              {
+                "text": "《用户协议》",
+                "href": "https://agree.xiaohongshu.com/h5/terms/ZXXY20220331001/-1"
+              },
+              {
+                "text": "《隐私政策》",
+                "href": "https://agree.xiaohongshu.com/h5/terms/ZXXY20220509001/-1"
+              },
+              {
+                "text": "《儿童/青少年个人信息保护规则》",
+                "href": "https://oa.xiaohongshu.com/h5/terms/ZXXY20220516001/-1"
+              },
+              {
+                "text": "沪ICP备13030189号",
+                "href": "https://beian.miit.gov.cn/"
+              },
+              {
+                "text": "营业执照",
+                "href": "https://fe-video-qc.xhscdn.com/fe-platform/5581076bd6b6af2e0e943abb024ad0e16f2ebff6.pdf"
+              },
+              {
+                "text": "2024沪公网安备31010102002533号",
+                "href": "https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010102002533"
+              },
+              {
+                "text": "增值电信业务经营许可证：沪B2-20150021",
+                "href": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b831hhkkll23u0678gtks7tu70004en2n231udpe"
+              },
+              {
+                "text": "医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号",
+                "href": "https://fe-video-qc.xhscdn.com/fe-platform/410dce57bc12a6d7e5808060e47644fbe46f68ff.pdf"
+              },
+              {
+                "text": "互联网药品信息服务资格证书：(沪)-经营性-2023-0144",
+                "href": "https://fe-video-qc.xhscdn.com/fe-platform/f37a08cacc088061beb38329c387c32fc48fc6fe.pdf"
+              },
+              {
+                "text": "违法不良信息举报电话：4006676810",
+                "href": "https://www.shjbzx.cn/"
+              },
+              {
+                "text": "上海市互联网举报中心",
+                "href": "https://www.shjbzx.cn/"
+              },
+              {
+                "text": "网上有害信息举报专区",
+                "href": "https://www.12377.cn/"
+              },
+              {
+                "text": "自营经营者信息",
+                "href": "https://dc.xhscdn.com/06c2adb0-b353-11e9-9d0c-7be9ff8961c1/%E8%87%AA%E8%90%A5%E7%BB%8F%E8%90%A5%E8%80%85%E4%BF%A1%E6%81%AF%E5%85%AC%E7%A4%BA.pdf"
+              },
+              {
+                "text": "网络文化经营许可证：沪网文(2024)1344-086号",
+                "href": "https://fe-video-qc.xhscdn.com/fe-platform/7970f6e8b70aedc995ba273d04b6b6751abcd63c.pdf"
+              },
+              {
+                "text": "个性化推荐算法 网信算备310101216601302230019号",
+                "href": "https://beian.cac.gov.cn/api/static/fileUpload/principalOrithm/additional/user_c015445c-80ac-45f7-94d7-3871e961b1fe_d4425f3b-7f35-45af-b8d4-badd4424d6d5.pdf"
+              },
+              {
+                "text": "沪ICP备13030189号",
+                "href": "https://beian.miit.gov.cn/"
+              },
+              {
+                "text": "营业执照",
+                "href": "https://fe-video-qc.xhscdn.com/fe-platform/5581076bd6b6af2e0e943abb024ad0e16f2ebff6.pdf"
+              }
+            ],
+            "headings": [],
+            "usernames": []
+          }
+        }
+      ],
+      "potentialLeads": [],
+      "timestamp": "2026-02-26T07:42:19.133Z"
+    }
+  },
+  "potentialCustomers": [],
+  "researchLog": [
+    "[2026-02-26T07:41:46.608Z] 完成平台调研: 微博",
+    "[2026-02-26T07:42:04.592Z] 完成平台调研: 知乎",
+    "[2026-02-26T07:42:17.130Z] 完成平台调研: B站",
+    "[2026-02-26T07:42:24.728Z] 完成平台调研: 小红书"
+  ]
+}
